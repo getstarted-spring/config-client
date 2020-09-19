@@ -9,7 +9,3 @@ spring:
       uri: http://localhost:8888
       username: user
       password: password
-
-logging:
-  level:
-    org.springframework.cloud.config: DEBUG
